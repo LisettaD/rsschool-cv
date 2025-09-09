@@ -7,6 +7,7 @@
 - E-mail: Liza.Koloteeva@gmail.com
 - GitHub: LisettaD
 - Telegram: Lisa_Koloteeva
+- Discord username: LisettaD
 
 ##About me##
  I’m junior frontend-developer. I have some knowledge and some skills in HTLM, CSS and JavaScript. I want to know more information about it. I want to understand how do any tasks at Codewars. That’s my goal create not only pretty web-site,  but create useful web-site for business and helpful and comfortable for users. 
