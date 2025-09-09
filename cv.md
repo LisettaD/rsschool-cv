@@ -19,3 +19,17 @@
  - JavaScript (Level: basic)
  - Git (Github) (Level: basic)
  - Figma 
+
+ ##Code Examples##
+ <head>
+ <style>
+    h1 {
+        backgroung-color: blue;
+        font-family: 'Arial';
+        font-size: 20px;
+        font-weight: bold;
+        font-style: italiac;
+    }
+    </style>
+    </head>
+    
