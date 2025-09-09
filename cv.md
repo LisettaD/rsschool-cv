@@ -1,5 +1,7 @@
 # Koloteeva Elizaveta Aleksandrovna #
 
+***
+
 ## Contact information ##
 - Country: Russia
 - City: Saint-Petersburg
@@ -25,14 +27,18 @@
  ## Code Examples ##
 
  TASK FROM CODEWARS: This code does not execute properly. Try to figure out why.
+ '''
  function multiply (a,b){
     a*b;
  } 
+ '''
 
  SOLUTION:
+ '''
  function multiply (a,b){
     return a*b;
  }
+ '''
 
 ## Work experience ##
 - Create websites with no-code platforms, like Tilda, Taplink
