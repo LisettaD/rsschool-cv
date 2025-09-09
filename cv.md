@@ -38,3 +38,9 @@
 
 ##Education##
 - Rolling Scopes school: JavaScript/Front-end 2025Q3
+
+##Languages##
+- Russian (native speaker)
+- English (B1)
+- Spanish (A1)
+
