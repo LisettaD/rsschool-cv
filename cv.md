@@ -31,5 +31,10 @@
         font-style: italiac;
     }
     </style>
-    </head>
-    
+</head>
+
+##Work experience##
+- Create websites with no-code platforms, like Tilda, Taplink
+
+##Education##
+- Rolling Scopes school: JavaScript/Front-end 2025Q3
