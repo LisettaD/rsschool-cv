@@ -22,17 +22,16 @@
  - Figma 
 
  ##Code Examples##
- <head>
- <style>
-    h1 {
-        backgroung-color: blue;
-        font-family: 'Arial';
-        font-size: 20px;
-        font-weight: bold;
-        font-style: italiac;
-    }
-    </style>
-</head>
+ 
+ TASK FROM CODEWARS: This code does not execute properly. Try to figure out why.
+ function multiply (a,b){
+    a*b;
+ } 
+
+ SOLUTION:
+ function multiply (a,b){
+    return a*b;
+ }
 
 ##Work experience##
 - Create websites with no-code platforms, like Tilda, Taplink
